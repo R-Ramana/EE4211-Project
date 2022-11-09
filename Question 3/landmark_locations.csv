@@ -1,93 +1,92 @@
-﻿Region,Landmark,Postal_Code
-Chinatown,Buddha Tooth Relic Temple and Museum.,058840
-,Sri Mariamman Temple.,058793
-,Maxwell Food Centre,069184
-,Thian Hock Keng Temple.,068613
-,Chinatown Heritage Centre.,059207
-,Chinatown Street Market,058943
-,Singapore Musical Box Museum,068619
-,Chinatown Complex,050335
-,Masjid Jamae.,058767
-,People's Park Complex,059108
-,Masjid Al-Abrar,068635
-Tanjong Pagar,100 AM Shopping centre,079027
-,Icon Village Shopping Centre,078877
-,Bangladesh High Commission,089058
-,Tanjong Pagar Community Club,089774
-,Duxton Skybridge,085601
-,Jinrikisha Station,088804
-,Sri Layan Sithi Vinayagar Temple,089167
-,Seng Wong Beo Temple,079332
-,Guoco Tower,078881
-,MAS Gallery,079117
-,NUS Baba House,088883
-,Singapore City Gallery,069118
-,Tantric Bar,088841
-Tiong Bahru,Tiong Bahru Park,159561
-,Pin Pin Piau Kay & Co Store,160071
-,Holiday Inn Singapore Atrium,169075
-,Emerald Park,169586
-,Beo Crescent Market,169982
-,Singapore General Hospital,169608
-,Foodie Market Place,169038
-,Tan Boon Liat Building,169074
-,Tiong Bahru Market,168716
-,Tiong Bahru Community Centre,169715
-,Tiong Bahru Bird Corner,168891
-,Qi Tiang Gong Monkey God Temple,169786
-,Air Raid Shelter,160078
-,Tiong Bahru Bakery,160056
-,Hua Bee Restaurant,162078
-,Degiosart Gallery,160057
-,Kim Pong Park,160127
-Bukit Timah,Bukit Timah Railway Station,589289
-,Bukit Timah Tua Pek Kong Temple,598416
-,Bukit Timah Market & Food Centre,588172
-,Bukit Timah Nature Reserve,589333
-,Horsecity,287992
-,PasarBella Farmer’s Market,287994
-,Botanic Gardens,259569
-,Al Azhar Restaurant,599736
-,Cluny Court,259760
-,Former Ford Factory,588192
-Radin Mas,Singapore Cable Car,099203
-,Henderson Waves Bridge,109178
-,VivoCity,098585
-,CHIJ St Theresa's Convent,099138
-,Telok Blangah Crescent Market & Food Centre,090011
-,Marang Cemetery,099280
-,HarbourFront Centre,099253
-,St James Power Station,098544
-River Valley,Hong San See Temple,238975
-,Gateway Theatre,159461
-,Chesed-El Synagogue,238693
-,Singapore Buddhist Lounge,239329
-,Masjid Jamek Queenstown,149307
-,Amped Trampoline Park,239351
-,Killiney Kopitiam,239525
-,Redhill Market,150079
-,Crescent Girls' School,247961
-Alexandra/Queenstown,Museum of Ice Cream Singapore,248837
-,IKEA Alexandra,159965
-,Alexandra Village Food Centre,150120
-,Alexandra Central Mall,159971
-,Mei Ling Market & Food Centre,140159
-,Anchorpoint Shopping Centre,159953
-,Margaret Drive Hawker Centre,142038
-,Queenstown Stadium,148949
-,Masjid Mujahidin,148952
-,Tanglin Halt Market,148813
-,SkyVille @ Dawson,141086
-,Queenstown Lutheran Church,149601
-,Alexandra Hospital,159964
-,Skybridge @ Queen’s Close,141019
-,Queenstown ActiveSG Swimming Complex,148948
-,Queensway Shopping Centre,149053
-Holland Village/Buona Vista,Holland Drive Market and Food Centre,270044
-,Singapore Post Office Ghim Moh,270021
-,MOE HQ,138675
-,Buona Vista Community Club,270036
-,Shuang Long Shan Cemetery,142007
-,Ulu Pandan Community Club,279621
-,ACS International,278475
-,Ghim Moh Road Market & Food Centre,270020
+Region,Landmark,Postal_Code,address
+Chinatown,Buddha Tooth Relic Temple,58840,"Buddha Tooth Relic Temple, Singapore"
+,Sri Mariamman Temple,58793,"Sri Mariamman Temple, Singapore"
+,Maxwell Food Centre,69184,"Maxwell Food Centre, Singapore"
+,Thian Hock Keng Temple,68613,"Thian Hock Keng Temple, Singapore"
+,Chinatown Heritage Centre,59207,"Chinatown Heritage Centre, Singapore"
+,Chinatown Street Market,58943,"Chinatown Street Market, Singapore"
+,Singapore Musical Box Museum,68619,"Singapore Musical Box Museum, Singapore"
+,Chinatown Complex,50335,"Chinatown Complex, Singapore"
+,Masjid Jamae,58767,"Masjid Jamae, Singapore"
+,People's Park Complex,59108,"People's Park Complex, Singapore"
+,Masjid Al-Abrar,68635,"Masjid Al-Abrar, Singapore"
+Tanjong Pagar,"100 AM, Tras Street",79027,"100 AM, Tras Street, Singapore"
+,Icon Village,78877,"Icon Village, Singapore"
+,Bangladesh High Commission,89058,"Keppel Road, Jit Poh Building, Singapore"
+,Tanjong Pagar Community Club,89774,"Tanjong Pagar Community Club, Singapore"
+,Duxton Skybridge,85601,"1G Cantonment Rd, Singapore"
+,Jinrikisha Station,88804,"Jinrikisha Station, Singapore"
+,Sri Layan Sithi Vinayagar Temple,89167,"Sri Layan Sithi Vinayagar Temple, Singapore"
+,Seng Wong Beo Temple,79332,"Seng Wong Beo Temple, Singapore"
+,Guoco Tower,78881,"Guoco Tower, Singapore"
+,MAS Gallery,79117,"10 Shenton Way, Singapore"
+,NUS Baba House,88883,"157 Neil Rd, Singapore"
+,Singapore City Gallery,69118,"Singapore City Gallery, Singapore"
+,Tantric Bar,88841,"Tantric Bar, Singapore"
+Tiong Bahru,Tiong Bahru Park,159561,"Tiong Bahru Park, Singapore"
+,Pin Pin Piau Kay & Co Store,160071,"71 Seng Poh Rd, Singapore"
+,Holiday Inn Singapore Atrium,169075,"317 Outram Rd, Singapore"
+,Emerald Park,169586,"Emerald Park, Singapore"
+,Beo Crescent Market,169982,"38A Beo Cres, Singapore"
+,Singapore General Hospital,169608,"Singapore General Hospital, Singapore"
+,Foodie Market Place,169038,"Foodie Market Place, Singapore"
+,Tan Boon Liat Building,169074,"Tan Boon Liat Building, Singapore"
+,Tiong Bahru Market,168716,"Tiong Bahru Market, Singapore"
+,Tiong Bahru Community Centre,169715,"Tiong Bahru Community Centre, Singapore"
+,Tiong Bahru Bird Corner,168891,"3 Seng Poh Rd, Singapore"
+,Qi Tiang Gong Monkey God Temple,169786,"44 Eng Hoon St, Singapore"
+,Air Raid Shelter,160078,"Air Raid Shelter, Singapore"
+,Tiong Bahru Bakery,160056,"Tiong Bahru Bakery, Singapore"
+,Hua Bee Restaurant,162078,"78 Moh Guan Terrace, Singapore"
+,Degiosart Gallery,160057,"1092 Lower Delta Rd, Singapore"
+,Kim Pong Park,160127,"Kim Pong Park, Singapore"
+Bukit Timah,Bukit Timah Railway Station,589289,"Bukit Timah Railway Station, Singapore"
+,Bukit Timah Tua Pek Kong Temple,598416,"10 Jln Seh Chuan, Singapore"
+,Bukit Timah Market & Food Centre,588172,"Bukit Timah Market & Food Centre, Singapore"
+,Bukit Timah Nature Reserve,589333,"Bukit Timah Nature Reserve, Singapore"
+,100 Turf Club Rd,287992,"100 Turf Club Rd, Singapore"
+,PasarBella Farmer’s Market,287994,"200 Turf Club Rd, Singapore"
+,Botanic Gardens,259569,"Botanic Gardens, Singapore"
+,Al Azhar Restaurant,599736,"11 Cheong Chin Nam Rd, Singapore"
+,Cluny Court,259760,"Cluny Court, Singapore"
+,Former Ford Factory,588192,"351 Upper Bukit Timah Rd, Singapore"
+Radin Mas,Singapore Cable Car,99203,"Singapore Cable Car, Singapore"
+,Henderson Waves Bridge,109178,"Henderson Waves Bridge, Singapore"
+,VivoCity,98585,"VivoCity, Singapore"
+,CHIJ St Theresa's Convent,99138,"CHIJ St Theresa's Convent, Singapore"
+,Telok Blangah Crescent Market & Food Centre,90011,"Telok Blangah Crescent Market & Food Centre, Singapore"
+,Marang Cemetery,99280,"Marang Cemetery, Singapore"
+,HarbourFront Centre,99253,"HarbourFront Centre, Singapore"
+,St James Power Station,98544,"St James Power Station, Singapore"
+River Valley,Hong San See Temple,238975,"Hong San See Temple, Singapore"
+,Gateway Theatre,159461,"Gateway Theatre, Singapore"
+,Chesed-El Synagogue,238693,"Chesed-El Synagogue, Singapore"
+,Singapore Buddhist Lounge,239329,"17-19 Kim Yam Rd, Singapore"
+,Masjid Jamek Queenstown,149307,"801 Margaret Dr, Singapore"
+,Amped Trampoline Park,239351,"Amped Trampoline Park, Singapore"
+,Killiney Kopitiam,239525,"Killiney Kopitiam, Singapore"
+,Redhill Market,150079,"Redhill Market, Singapore"
+,Crescent Girls' School,247961,"Crescent Girls' School, Singapore"
+Alexandra/Queenstown,Museum of Ice Cream Singapore,248837,"100 Loewen Rd, Singapore"
+,IKEA Alexandra,159965,"IKEA Alexandra, Singapore"
+,Alexandra Village Food Centre,150120,"Alexandra Village Food Centre, Singapore"
+,Alexandra Central Mall,159971,"Alexandra Central Mall, Singapore"
+,Mei Ling Market & Food Centre,140159,"159 Mei Chin Rd, Singapore"
+,Anchorpoint,159953,"Anchorpoint, Singapore"
+,Margaret Drive Hawker Centre,142038,"Margaret Drive Hawker Centre, Singapore"
+,Queenstown Stadium,148949,"Queenstown Stadium, Singapore"
+,Masjid Mujahidin,148952,"Masjid Mujahidin, Singapore"
+,Tanglin Halt Market,148813,"Tanglin Halt Market, Singapore"
+,SkyVille @ Dawson,141086,"SkyVille @ Dawson, Singapore"
+,Queenstown Lutheran Church,149601,"Queenstown Lutheran Church, Singapore"
+,Alexandra Hospital,159964,"Alexandra Hospital, Singapore"
+,Queenstown Swimming Complex,148948,"Queenstown Swimming Complex, Singapore"
+,Queensway Shopping Centre,149053,"Queensway Shopping Centre, Singapore"
+Holland Village/Buona Vista,Holland Drive Market and Food Centre,270044,"Holland Drive Market and Food Centre, Singapore"
+,Singapore Post Ghim Moh,270021,"Singapore Post Ghim Moh, Singapore"
+,Ministry Of Education HQ (Mount Sinai),138675,"Ministry Of Education HQ (Mount Sinai), Singapore"
+,Buona Vista Community Club,270036,"Buona Vista Community Club, Singapore"
+,Shuang Long Shan Cemetery,142007,"7B Commonwealth Ave, Singapore"
+,Ulu Pandan Community Club,279621,"Ulu Pandan Community Club, Singapore"
+,ACS International,278475,"ACS International, Singapore"
+,20 Ghim Moh Road Market,270020,"20 Ghim Moh Road Market, Singapore"
